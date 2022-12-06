@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -c  "bin" /etc/p6asswd
+egrep .c "bin" /etc/passwd
